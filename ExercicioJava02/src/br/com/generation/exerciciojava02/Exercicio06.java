@@ -17,18 +17,10 @@ public class Exercicio06 {
 			
 			if((num % 3 ==0)&&(num != 0)) {
 				cont += 1;
-				soma = soma +num;
-				
+				soma = num +soma;
 				
 			} 
-			if(num == 0) {
-				System.out.println("Fim de programa...");
-				break;
-			}
 			
-			
-			
-
 		}while(num != 0);
 		
 		
