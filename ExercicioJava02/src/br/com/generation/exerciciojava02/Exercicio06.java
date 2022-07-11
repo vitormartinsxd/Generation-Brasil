@@ -32,7 +32,7 @@ public class Exercicio06 {
 		}while(num != 0);
 		
 		
-		mediaMultiplos = soma/cont;
+		mediaMultiplos = (double)soma/(double)cont;
 		System.out.println("A media dos multiplos por 3 é: " + mediaMultiplos);
 	}
 

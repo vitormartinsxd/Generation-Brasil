@@ -8,7 +8,7 @@ public class Exercicio02 {
 		Scanner entrada = new Scanner(System.in);
 		int num, imp= 0,par = 0;
 		
-		for(int i=0; i <= 10; i++) {
+		for(int i=0; i <= 9; i++) {
 			System.out.println("Informe um número: ");
 			num = entrada.nextInt();
 			
