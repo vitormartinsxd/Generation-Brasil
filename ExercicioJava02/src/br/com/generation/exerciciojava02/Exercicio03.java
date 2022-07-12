@@ -14,12 +14,12 @@ public class Exercicio03 {
 			
 			if(idade >= 0 && idade < 21) {
 				idade = idMenor;
-				idMenor = idMenor +1;
+				idMenor += 1;
 				
 			} 
 			if (idade > 50 ) {
 				idade = idMaior;
-				idMaior = idMaior + 1;
+				idMaior += + 1;
 				
 			} else if (idade == -99){
 				System.out.println("Fim do programa...");
