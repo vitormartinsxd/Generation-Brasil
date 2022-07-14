@@ -1,4 +1,4 @@
-package br.com.generation.exercicio01;
+package br.com.generation.exercicio01e02;
 
 public abstract class Animal {
 	public void somAnimal() {

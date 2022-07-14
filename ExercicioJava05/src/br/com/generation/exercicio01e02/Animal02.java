@@ -1,4 +1,4 @@
-package br.com.generation.exercicio01;
+package br.com.generation.exercicio01e02;
 
 public interface Animal02 {
 	

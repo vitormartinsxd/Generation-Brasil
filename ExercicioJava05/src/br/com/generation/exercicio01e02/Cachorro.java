@@ -1,6 +1,6 @@
-package br.com.generation.exercicio01;
+package br.com.generation.exercicio01e02;
 
-public class Cavalo extends Animal implements Animal02 {
+public class Cachorro extends Animal implements Animal02 {
 	private String nome;
 	private int idade;
 	
@@ -18,11 +18,12 @@ public class Cavalo extends Animal implements Animal02 {
 	}
 	@Override
 	public void somAnimal() {
-		System.out.println("Neeeer....");
+		System.out.println("Auauauhh....");
 	}
 	@Override
 	public void CorrerOuSubir() {
-		System.out.println("Cavalo corre....");
+		System.out.println("Cachcorro corre...");
+		
 	}
 	
 	
